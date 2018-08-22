@@ -1,0 +1,10 @@
+﻿  Factor.cpp
+  Layers.cpp
+  LikelihoodFactor.cpp
+  PriorFactor.cpp
+  SumFactor.cpp
+  TrueSkillD.cpp
+  TruncateFactor.cpp
+  Variable.cpp
+  Generating Code...
+  TrueSkillD.vcxproj -> F:\Google Drive\matchmaking\TrueSkillD\Debug\TrueSkillD.exe
